@@ -39,7 +39,7 @@ Now go to Remix and compile the Vault.sol contract:
 
 <img src="./images/image4.png">
 
- Instead of deploying Vault.sol we are going to interact with the already deployed contract by using instance address showed on Developer Tools. Also, dont forget to add your wallet on Environment by selecting "Injected Provider - Metamask".
+ Instead of deploying Vault.sol we are going to interact with the already deployed contract by using instance's address showed on Developer Tools. Also, dont forget to add your wallet on Environment by selecting "Injected Provider - Metamask".
 
 <img src="./images/image5.png">
 
